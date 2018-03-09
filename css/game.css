@@ -1,0 +1,11 @@
+.background    { background-image: url("https://i.imgur.com/IKElepZ.jpg");
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background-image: url("https://i.imgur.com/iNl6Xn1.jpg"); }
+.wall          { background-image: url("https://i.imgur.com/gx0Z0gb.jpg"); }
+.floater       { background-image: url("https://i.imgur.com/ehz1Eib.gif"); }
+
+.game {
+  position: relative;
+}
